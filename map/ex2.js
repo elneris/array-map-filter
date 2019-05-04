@@ -43,7 +43,30 @@ En sortie: [
  */
 
 function getFoodCategories(foods) {
+  return foods.map(oneFood => oneFood.isVegetarian ? oneFood.food + ' is suitable for vegetarians' : oneFood.food + ' is not suitable for vegetarians' );
+
 }
+
+/*
+console.log(getFoodCategories([
+  {
+    food: 'Bacon',
+    isVegetarian: false
+  },
+  {
+    food: 'Sausage',
+    isVegetarian: false
+  },
+  {
+    food: 'Tofu',
+    isVegetarian: true
+  },
+  {
+    food: 'Chick Pea',
+    isVegetarian: true
+  }
+]));
+*/
 
 
 

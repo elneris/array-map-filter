@@ -1,5 +1,9 @@
 # Exercices sur map et filter
 
+## Correction
+
+* Pour ceux qui vont me corriger, j'ai mi un console.log a chaque exo, il vous suffit de décommenté et de rentrer node map/ex1.js par exemple
+
 ## Installation
 
 * [EDIT] **D'abord** forker, **puis** cloner ce repo (indispensable pour Travis, sinon ça marche quand même sans Travis)
