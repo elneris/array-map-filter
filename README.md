@@ -2,7 +2,7 @@
 
 ## Correction
 
-* Pour ceux qui vont me corriger, j'ai mi un console.log a chaque exo, il vous suffit de décommenté et de rentrer node map/ex1.js par exemple
+* Pour ceux qui vont me corriger j'ai mi un console.log a chaque exo, il vous suffit de décommenté et de rentrer node map/ex1.js par exemple
 
 ## Installation
 
